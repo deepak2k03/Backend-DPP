@@ -1,6 +1,6 @@
 # Easy Backend Problems (1–120) — Detailed Progress Tracker
 
-- [ ] **1. Easy Problem 1**
+- [x] **1. Easy Problem 1**
 <details><summary>View Description</summary>
 
 This is the detailed description of Easy Problem 1, where you will implement a backend task covering APIs, CRUD operations, authentication basics, file handling, or server utilities.
